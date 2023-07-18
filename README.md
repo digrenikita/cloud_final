@@ -1,5 +1,6 @@
 **Introduction**
- In this report we will review the current IT setup of indie campers and recommend a cloud strategy appropriate for a business of this size and scope.underpinning our analysis and recommendations will be cost , resource allocation, security , and scalability considerations.
+
+In this report we will review the current IT setup of indie campers and recommend a cloud strategy appropriate for a business of this size and scope.underpinning our analysis and recommendations will be cost , resource allocation, security , and scalability considerations.
 We will start by providing a short background of the indie campers,before addressing the current IT setup and providing recommendations on future deployment.
 
 Background of the indie campers
